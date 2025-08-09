@@ -2,7 +2,7 @@
 // config.php
 return [
     'db' => [
-        'dsn' => 'mysql:host=localhost;dbname=ezyro_38868148_library_db;charset=utf8mb4',
+        'dsn' => 'mysql:host=localhost;dbname=database name;charset=utf8mb4',
         'user' => 'root',
         'pass' => '',
     ],
