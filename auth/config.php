@@ -9,8 +9,8 @@ return [
     'mail' => [
         'smtp_host' => 'smtp.gmail.com',
         'smtp_port' => 587,
-        'smtp_user' => 'htbuwaneka@gmail.com',       // change me
-        'smtp_app_password' => 'qllrwgidlynngdvx', // change me (Google App Password)
+        'smtp_user' => 'your-email',       // change me
+        'smtp_app_password' => 'password', // change me (Google App Password)
         'from_email' => 'yourgmail@gmail.com',
         'from_name' => 'Library System'
     ],
