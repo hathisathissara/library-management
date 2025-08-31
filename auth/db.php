@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "password", "database name");
+$conn = mysqli_connect("localhost", "root", "", "ezyro_38868148_library_db");
 if (!$conn) {
   die("Connection failed: " . mysqli_connect_error());
 }
